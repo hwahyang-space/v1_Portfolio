@@ -1,0 +1,5 @@
+*.config
+fonts
+img/*/*
+dashboard/fonts
+dashboard/im*

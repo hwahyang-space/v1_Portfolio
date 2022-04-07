@@ -1,0 +1,4 @@
+Sitemap:https://pf-v1.hwahyang.space/sitemap.xml
+User-agent: *
+Disallow: /dashboard
+Allow: /
